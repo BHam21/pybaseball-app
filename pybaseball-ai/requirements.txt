@@ -7,3 +7,4 @@ pybaseball
 matplotlib
 seaborn
 plotly
+pysqlite3-binary
