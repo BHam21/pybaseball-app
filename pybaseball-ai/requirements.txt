@@ -1,0 +1,9 @@
+streamlit
+groq
+crewai
+crewai_tools
+pydantic
+pybaseball
+matplotlib
+seaborn
+plotly
