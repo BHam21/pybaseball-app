@@ -1,5 +1,6 @@
 streamlit
 groq
+chromadb==0.3.29
 crewai
 crewai_tools
 pydantic
