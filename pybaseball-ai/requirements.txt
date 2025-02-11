@@ -1,6 +1,7 @@
 streamlit
 groq
 chromadb==0.3.29
+fastapi==0.85.1
 crewai
 crewai_tools
 pydantic
