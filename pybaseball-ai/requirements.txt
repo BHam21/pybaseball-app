@@ -1,7 +1,7 @@
 streamlit
 groq
-crewai
-crewai_tools
+crewai==0.76.9
+crewai-tools==0.13.4
 pydantic
 pybaseball
 matplotlib
